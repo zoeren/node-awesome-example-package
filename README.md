@@ -1,0 +1,1 @@
+# node-awesome-example-package
