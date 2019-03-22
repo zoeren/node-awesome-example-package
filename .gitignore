@@ -61,7 +61,7 @@ typings/
 .next
 
 # compiled javascript, nicht ignorieren, da wir aus dem git repo installieren
-# /lib
+/lib
 
 # Jetbrains stuff
 .idea/
