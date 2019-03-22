@@ -1,1 +1,1 @@
-import { AwesomeCalculator } from './awesome-calculator';
+export * from './';
