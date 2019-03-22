@@ -60,8 +60,8 @@ typings/
 # next.js build output
 .next
 
-# compiled javascript
-/lib
+# compiled javascript, nicht ignorieren, da wir aus dem git repo installieren
+# /lib
 
 # Jetbrains stuff
 .idea/
