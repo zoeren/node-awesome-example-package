@@ -64,4 +64,5 @@ typings/
 /lib
 
 # Jetbrains stuff
-.idea/
+/.idea/
+/.idea/vcs.xml
